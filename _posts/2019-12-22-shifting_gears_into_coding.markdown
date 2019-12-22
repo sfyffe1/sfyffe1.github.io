@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Shifting Gears into Coding"
-date:       2019-12-22 21:20:23 +0000
+date:       2019-12-22 16:20:24 -0500
 permalink:  shifting_gears_into_coding
 ---
 
